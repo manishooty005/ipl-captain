@@ -3,6 +3,7 @@
 Library
 Library/*
 *.csproj
+*.unityproj
 *.sln
 *.userprefs
 Temp
